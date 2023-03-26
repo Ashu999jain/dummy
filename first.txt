@@ -1,1 +1,2 @@
 This is first file in git folder
+Entering text after adding to gitignore
